@@ -146,6 +146,8 @@ origins = [
     "http://127.0.0.1:5173",
     "https://cv-insight-123.vercel.app",
     "https://cv-insight-123.vercel.app/",
+    "https://cv-insight-nray.vercel.app",
+    "https://cv-insight-nray.vercel.app/",
 ]
 if settings.CORS_ORIGINS:
     origins.extend([o.strip() for o in settings.CORS_ORIGINS.split(",") if o.strip()])

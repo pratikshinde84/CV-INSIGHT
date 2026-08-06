@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://cv-insight-api.onrender.com/$1"
+      "destination": "https://cv-insight-kzx9.onrender.com/$1"
     },
     {
       "source": "/(.*)",
