@@ -296,4 +296,5 @@ Lexis is a functional MVP with production infrastructure in place. Planned upgra
 - **Multi-modal Support** — Extend document ingestion to handle images and tables extracted from PDFs.
 - **Usage Analytics Dashboard** — Surface token consumption, cache hit rates, and circuit breaker trip history in the Dev Console.
 #   C V - I N S I G H T  
+ #   C V - I N S I G H T  
  
