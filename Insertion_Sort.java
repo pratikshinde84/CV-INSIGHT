@@ -16,7 +16,7 @@ class Insertion_Sort{
     }
     public static void main(String[] args) {
         Insertion_Sort i=new Insertion_Sort();
-        int ar[]={1,9,8,65,66666,4,-345,0};
+        int ar[]={1,9,8,65,66666,4,-345,0};  
         i.insert(ar);
         System.out.println(Arrays.toString(ar));
     }
