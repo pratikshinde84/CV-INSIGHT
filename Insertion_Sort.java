@@ -5,7 +5,8 @@ class Insertion_Sort{
         int n=ar.length;
         for(int i=1;i<n;i++){
             int ele=ar[i];
-            int j=i-1;
+            int j=i-1;              
+        
             while(j>=0&&ar[j]>ele){
                 ar[j+1]=ar[j];
                 j--;
