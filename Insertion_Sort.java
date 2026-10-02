@@ -12,7 +12,6 @@ class Insertion_Sort{
             }
             ar[++j]=ele;
         }
-        
     }
     public static void main(String[] args) {
         Insertion_Sort i=new Insertion_Sort();
@@ -20,4 +19,4 @@ class Insertion_Sort{
         i.insert(ar);
         System.out.println(Arrays.toString(ar));
     } 
-}                                          
+}
