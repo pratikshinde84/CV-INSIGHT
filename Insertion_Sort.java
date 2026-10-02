@@ -20,4 +20,4 @@ class Insertion_Sort{
         i.insert(ar);
         System.out.println(Arrays.toString(ar));
     } 
-}                         
+}                                   
